@@ -65,7 +65,8 @@
         </div>
         <div class="col-lg-5 my-auto">
           <div class="device-container">
-            <div class="device-mockup iphone6_plus portrait white">
+            <!--<div class="device-mockup iphone6_plus portrait white">-->
+              <div class="device-mockup ipad_pro portrait silver">
               <div class="device">
                 <div class="screen">
                   <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
@@ -107,7 +108,7 @@
       <div class="row">
         <div class="col-lg-4 my-auto">
           <div class="device-container">
-            <div class="device-mockup iphone6_plus portrait white">
+            <div class="device-mockup ipad_pro portrait silver">
               <div class="device">
                 <div class="screen">
                   <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
