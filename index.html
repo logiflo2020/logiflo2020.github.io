@@ -59,7 +59,7 @@
       <div class="row h-100">
         <div class="col-lg-7 my-auto">
           <div class="header-content mx-auto">
-            <h1 class="mb-5">A short description of the logiflo application here!</h1>
+            <h1 class="mb-5">Logiflo allows you to quickly and easily create professional Flowcharts for your business</h1>
             <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Start Now for Free!</a>
           </div>
         </div>
@@ -101,8 +101,8 @@
   <section class="features" id="features">
     <div class="container">
       <div class="section-heading text-center">
-        <h2>Unlimited Features, Unlimited Fun</h2>
-        <p class="text-muted">Check out what you can do with this app theme!</p>
+        <h2>Just Some of the Features</h2>
+        <p class="text-muted">Check out what you can do with logiflo!</p>
         <hr>
       </div>
       <div class="row">
@@ -126,16 +126,16 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="feature-item">
-                  <i class="icon-screen-smartphone text-primary"></i>
-                  <h3>Device Mockups</h3>
-                  <p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+                  <i class="icon-screen-tablet text-primary"></i>
+                  <h3>For iPad</h3>
+                  <p class="text-muted">Specifically created for iPad and the Apple platform</p>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="feature-item">
-                  <i class="icon-camera text-primary"></i>
+                  <i class="icon-organization text-primary"></i>
                   <h3>Flexible Use</h3>
-                  <p class="text-muted">Put an image, video, animation, or anything else in the screen!</p>
+                  <p class="text-muted">Create many popular Flowcharts, like Organization Charts, Business Process Flows, Customer Support Flowcharts, etc... </p>
                 </div>
               </div>
             </div>
@@ -143,15 +143,15 @@
               <div class="col-lg-6">
                 <div class="feature-item">
                   <i class="icon-present text-primary"></i>
-                  <h3>Free to Use</h3>
-                  <p class="text-muted">As always, this theme is free to download and use for any purpose!</p>
+                  <h3>Share Your Documents</h3>
+                  <p class="text-muted">Send your Flowcharts to coworkers and collegues.</p>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="feature-item">
                   <i class="icon-lock-open text-primary"></i>
-                  <h3>Open Source</h3>
-                  <p class="text-muted">Since this theme is MIT licensed, you can use it commercially!</p>
+                  <h3>Free to Use</h3>
+                  <p class="text-muted">Try logiflo for free.  No sign up required!</p>
                 </div>
               </div>
             </div>
