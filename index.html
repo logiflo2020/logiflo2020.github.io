@@ -142,7 +142,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="feature-item">
-                  <i class="icon-present text-primary"></i>
+                  <i class="icon-share-alt text-primary"></i>
                   <h3>Share Your Documents</h3>
                   <p class="text-muted">Send your Flowcharts to coworkers and collegues.</p>
                 </div>
